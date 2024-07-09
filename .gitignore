@@ -1,0 +1,12 @@
+# Pass on some files
+*.exe
+*.sln
+*.vcxproj
+*.filters
+*.users
+*.suo
+*.db
+*.ipch
+Debug/
+.vs
+Release/
